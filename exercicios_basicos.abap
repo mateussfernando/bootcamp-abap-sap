@@ -1,6 +1,6 @@
 *STRINGS> 
 *Criar e exibir uma variável com seu nome.
-1 METODO declarando variavel:
+*1 METODO declarando variavel:
 DATA nome(30) TYPE C.
 nome = 'mateus'.
 WRITE '1 - Nome informado;' , nome.
